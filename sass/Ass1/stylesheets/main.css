@@ -1,0 +1,18 @@
+/* line 3, ../sass/modules/_buttons.scss */
+.btn--twitter, .btn--facebook {
+  min-width: 100px;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+/* line 8, ../sass/modules/_buttons.scss */
+.btn--twitter {
+  color: #fff;
+  background: #55acee;
+}
+
+/* line 12, ../sass/modules/_buttons.scss */
+.btn--facebook {
+  color: #fff;
+  background: #3b5998;
+}
